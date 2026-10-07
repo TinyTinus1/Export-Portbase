@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pdf
+*.xls
+!templates/NEDTemplate.xls
+test-output/
+.DS_Store
+Thumbs.db
